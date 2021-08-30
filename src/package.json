@@ -1,0 +1,26 @@
+{
+  "name": "hw10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbrunswig/hw10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbrunswig/hw10/issues"
+  },
+  "homepage": "https://github.com/sbrunswig/hw10#readme",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
