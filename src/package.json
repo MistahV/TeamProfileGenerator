@@ -1,5 +1,5 @@
 {
-  "name": "hw10",
+  "name": "TeamProfileGenerator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbrunswig/hw10.git"
+    "url": "git+https://github.com/MistahV/TeamProfileGenerator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sbrunswig/hw10/issues"
+    "url": "https://github.com/MistahV/TeamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/sbrunswig/hw10#readme",
+  "homepage": "https://github.com/MistahV/TeamProfileGenerator#readme",
   "devDependencies": {
     "jest": "^27.0.1"
   },
